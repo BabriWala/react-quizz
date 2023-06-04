@@ -9,3 +9,16 @@
 [+] git commit 
 [+] remote add origin
 [+] git push origin lesson - 3
+
+
+
+[+] Markup Create
+[+] Create Nav Component
+[+] Brand Component 
+[+] Account Component
+[+] Styles Component
+[+] Add Global CSS
+[+] Nav Module CSS
+[+] Layout Module Create
+[+] video & video component create
+[+] Multi selece ctrl + shift + l

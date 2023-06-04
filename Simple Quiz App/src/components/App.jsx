@@ -1,8 +1,11 @@
+import Home from "./pages/Home";
+import Layout from "./Layout";
+
 function App() {
   return (
-    <>
-      <h1>Hello From React</h1>
-    </>
+    <Layout>
+      <Home></Home>
+    </Layout>
   );
 }
 
